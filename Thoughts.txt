@@ -1,0 +1,6 @@
+We get power for three phases. Why not do this analysis seperately on all three phases?
+
+Do we allow the possibility of multiple devices of same kind while tracking appliances in active_names? Line 329/SA_FunctionsRaycon
+
+For different appliances in our list, we can identify waveforms of the current and compare how they vary. For the 9 observable events, their are 3 distinct waveforms. This might allow us to classify appliances more accurately than using just mean power. Also, mean power might vary significantly for the same kind of device as well. 
+

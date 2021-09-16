@@ -1,0 +1,21 @@
+runtime: python
+env: flex
+entrypoint: gunicorn -b :$PORT run:app --timeout 300
+service: dev-mqtt-logger-processer
+beta_settings:
+  cloud_sql_instances: solar-222307:asia-south1:residential-solar
+resources:
+  cpu: 2
+  memory_gb: 4
+  disk_size_gb: 20
+automatic_scaling:
+  min_num_instances: 1
+  max_num_instances: 1
+runtime_config:
+  python_version: 3
+env_variables:
+  SERVER: 'staging'
+  DB_USER_NAME: 'app-staging'
+  DB_PASSWORD: '8yQsM2mP9R7fMygK'
+  DB_HOST: 'solar-222307:asia-south1:residential-solar'
+  DB_NAME: 'dev_residential_solar'

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "solar-222307",
+  "private_key_id": "bb447d1ea32f5be28e06ad0cbd3f5afa0f7995f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1JOTCmPi7LGN+\n2rmZgEU4sxpF7C1dcLu1EgU4bsu1yV31JN9pKPMcVYg9n+sKr4qUHva1NHi2WM+t\nKW5foywh4W2OieAECA8Zkb+gpE47AgoAi5Ix4T/tTyxMxYOMZjtRXom7IgScZ2F3\n3Xj8vrKDMUKFPuXx2bRANOev1GqJ6kU7+HwBdA3FeK1IssroEOUk4JP+H4Bb1p8+\njBAj18WxLXcApy51il48TYMFNogyAZnnhyYrTpkqBbXp2qp2H7QaWyY+SMdYl5jo\nXL5CyGid4fquwYl0Vonnq+3qheh68sE1gHdpuGA/IEcjVVOARo7pnra2ZVjJOKuN\nxiMqxPrJAgMBAAECggEAUcuEBJ8AibxEfS6U6kxydWTiczpvTacvC1dExjO5hq+T\n3rM0so6MIHo61+DTSHL1t2a37iDwdR5rQHzZ2xOaRP4+80MsxYVCFECs8APhU2Hb\nVF2xuRZGQIkkrtHtUcOD+30d4kM9I8bGy1JVZINTpkvjBrndKTUt4GRDTjEznmxG\nUh5EFY9lMj50AqNSNqMSrEYGdRzdCCVhkwSDDLBqGjcpo3YR8/ErdURuzdHG5sqQ\nImRnjqckQBtW+xdd9Bur1zwW0nU/wfcEviUuo/YUls/N9AD1zIKA0UcY+WLmigPN\n+0hkMrMkEQvYKsry+uhFj1QOXbIi2AbVVFNY2YBC9QKBgQD/0yqPdXjFiD1yIjC/\nFlG/OKf2T6/2o1BWVvLmGKogkF7QvQwVk7sLI9LWBnevSe/lz88HoFYsvo65+sd/\nQ8MwVzAW1+GBczVpKRirZ3uB4HVVWGC+5ubVhj3XX7eSPXbrHWbWRQickojexV5n\nacqSRPwyOvsPgKfNCAOUhHiLDwKBgQC1RKOwh6BJopPJOFEgtgtvmQNCwurykS+v\nYtFrS0sRXmx//O6kW2uWV6OMt5jfhy1nVd6q0DjJF6+0ue4/R48Pp1BGY0M5Rdc5\nas0aPjtuSeHfmfvolWjgWp0wXD/BvAO0QrFiapTNWkocpFqvGgdn9VuX1fmWyJuM\nvMoz8sl8pwKBgQDwfumh18Njn4J0S2QcH7VV2MM9sQgxCrK5mB/c5A77cf1Qqogz\nuJ+8Bz9raMUXCqD2IHf2KWsZwUKX4AOvxlo2laBluSkL8uyhIbtJV40qOYLUarL4\nhEU5MmvsjtUaK6IhwZAtmtRPrQnyswTenvuKqkOUTRI8LqyQ+Rm0gxx3TQKBgD4a\n9FJpRXu1HhlVGEay2Jw1uq5HBiRxpfrbSpEOTPv4dAgt6r2ZLPVntXti9Bexwtai\nzxWLHcmYOfUbtwsrQ1LDqndTTxbyXNkpRHh3VflliuQHaA26EyK7KRwGnzmLZ2F9\ncDUd+zmYc8f4b7GKo3r0z5roDwmgVdsUW9sMlggFAoGAXBdVZ1ogYI3W/8Oj65OC\n+GtJo+iz7MFOWsRUhJHld0vPskXSE+uyHzyV9sS7KZvhUOl0AaYFKs74MzXrwLg8\nX0ObmJCEh60bBpJhthyU6+VaZxBb6Fkl8w+ffh01Il57oynR4plLoZSEUfcqhPPj\nJuTR19Pea/EzKLls68xeFRc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "stackdriver-logging@solar-222307.iam.gserviceaccount.com",
+  "client_id": "104921040671093186880",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stackdriver-logging%40solar-222307.iam.gserviceaccount.com"
+}
